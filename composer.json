@@ -1,11 +1,11 @@
 {
-    "name": "laracon21/colorcodeconverter",
+    "name": "aadshalshihry/colorcodeconverter",
     "description": "My awesome package",
     "keywords": [
         "laracon21",
         "colorcodeconverter"
     ],
-    "homepage": "https://github.com/laracon21/colorcodeconverter",
+    "homepage": "https://github.com/aadshalshihry/colorcodeconverter",
     "license": "MIT",
     "type": "library",
     "authors": [
